@@ -1,0 +1,84 @@
+1 threads
+FW_SR,2048,16,10.1018
+2 threads
+FW_SR,2048,16,5.4253
+4 threads
+FW_SR,2048,16,5.7662
+8 threads
+FW_SR,2048,16,6.0912
+16 threads
+FW_SR,2048,16,6.2174
+32 threads
+FW_SR,2048,16,5.9881
+64 threads
+FW_SR,2048,16,7.9673
+1 threads
+FW_SR,2048,32,7.3635
+2 threads
+FW_SR,2048,32,3.5902
+4 threads
+FW_SR,2048,32,3.6780
+8 threads
+FW_SR,2048,32,3.9720
+16 threads
+FW_SR,2048,32,4.0706
+32 threads
+FW_SR,2048,32,3.9149
+64 threads
+FW_SR,2048,32,4.9105
+1 threads
+FW_SR,2048,64,5.2438
+2 threads
+FW_SR,2048,64,2.9156
+4 threads
+FW_SR,2048,64,2.9209
+8 threads
+FW_SR,2048,64,3.0877
+16 threads
+FW_SR,2048,64,3.3206
+32 threads
+FW_SR,2048,64,3.3241
+64 threads
+FW_SR,2048,64,4.1291
+1 threads
+FW_SR,2048,128,4.6128
+2 threads
+FW_SR,2048,128,2.7768
+4 threads
+FW_SR,2048,128,2.9269
+8 threads
+FW_SR,2048,128,3.0151
+16 threads
+FW_SR,2048,128,3.4156
+32 threads
+FW_SR,2048,128,3.5397
+64 threads
+FW_SR,2048,128,3.9256
+1 threads
+FW_SR,2048,256,5.8098
+2 threads
+FW_SR,2048,256,3.6353
+4 threads
+FW_SR,2048,256,3.7126
+8 threads
+FW_SR,2048,256,3.7444
+16 threads
+FW_SR,2048,256,3.7465
+32 threads
+FW_SR,2048,256,4.2694
+64 threads
+FW_SR,2048,256,4.4696
+1 threads
+FW_SR,2048,512,6.1988
+2 threads
+FW_SR,2048,512,4.3791
+4 threads
+FW_SR,2048,512,4.4406
+8 threads
+FW_SR,2048,512,4.5170
+16 threads
+FW_SR,2048,512,4.4961
+32 threads
+FW_SR,2048,512,4.7605
+64 threads
+FW_SR,2048,512,4.9578
